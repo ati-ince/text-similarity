@@ -1,0 +1,9 @@
+#language-code/text1/text2
+en-US/i didn't find any playlists in your music library./i didn't find that playlist.
+en-US/which album would you like to listen to?/which album would you like to listen to
+en-US/which song would you like to listen to?/which song would you like to listen to
+en-US/which artist would you like to browse?/which artist would you like to brows
+en-US/turning on the radio./turning on the radi
+en-US/you can only use frequencies between 0 and 9999./the frequency is invalid. tuning to closest frequency xx
+en-US/i didn't find any information for this station./i don't have any information for this station
+en-US/i can't find any stations at the moment./showing fm station
